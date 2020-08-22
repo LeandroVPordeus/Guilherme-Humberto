@@ -1,6 +1,6 @@
 ## Guilherme Humberto! 
 
-Desenvolvedor Full-Stack Júnior, busco aprender e ampliar meus conhecimento no desenvolvimento de software.
+Desenvolvedor Full-Stack Júnior, busco aprender e ampliar meus conhecimento no desenvolvimento de software.<br />
 Meu aprendizado é baseado na criação de projetos e na contribuição para a comunidade de código aberto
 <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="250" align = "right">
 
