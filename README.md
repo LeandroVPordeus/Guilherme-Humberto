@@ -1,4 +1,4 @@
-## Guilherme Humberto! 
+## Guilherme Humberto
 
 Desenvolvedor Full-Stack Júnior, busco aprender e ampliar meus conhecimento no desenvolvimento de software.<br />
 Meu aprendizado é baseado na criação de projetos e na contribuição para a comunidade de código aberto
