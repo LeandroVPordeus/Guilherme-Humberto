@@ -1,6 +1,7 @@
 ## Guilherme Humberto! 
 
-I am a developer who is passionate about stuff like deep learning and data science. Few tech that I enjoy working in are Python, C++, Plotly-Dash, PyTorch, and  AWS. I am actively looking for opportunities in Data Science. Recently, I have just started with tech-blogging!
+Desenvolvedor Full-Stack Júnior, busco aprender e ampliar meus conhecimento no desenvolvimento de software.
+Meu aprendizado é baseado na criação de projetos e na contribuição para a comunidade de código aberto
 <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="250" align = "right">
 
 - 👨🏽‍💻 Estudante de desenvolvimento de softwares.
